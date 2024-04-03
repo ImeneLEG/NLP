@@ -5,9 +5,9 @@
 
 | **TP**                                     | **Lien**                            |
 |--------------------------------------- |---------------------------------|
-|**TP1** :Text preprocessing                | [ Lien vers TP1](lien_vers_TP1) |
-| **TP2** :Word Embedding par word2vec       | [Lien vers TP2](lien_vers_TP2) |
-| **TP3** :TP3 : NLP Classification de texte | [Lien vers TP3](lien_vers_TP3) |
-| **TP4** : TP4 : Projet Chatbot avec RASA   | [Lien vers TP3](lien_vers_TP3) |
+|**TP1** :Text preprocessing                | [ Lien vers TP1](ImeneTP1.ipynb) |
+| **TP2** :Word Embedding par word2vec       | [Lien vers TP2](imeneTP2/Imene_NLPtp2.ipynb) |
+| **TP3** :TP3 : NLP Classification de texte | [Lien vers TP3](Tp3Imene.ipynb) |
+| **TP4** : TP4 : Projet Chatbot avec RASA   | [Lien vers TP3](lien_vers_TP4) |
 
 
