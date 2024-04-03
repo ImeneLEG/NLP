@@ -1,6 +1,6 @@
 # TP NLP
 
-# Tableau de Navigation
+## Tableau de Navigation
 #### Pour naviguer sur mon repo , utilisez le tableau ci-dessous pour naviguer aux différents travaux pratiques et leurs liens correspondants :
 
 | **TP**                                     | **Lien**                            |
